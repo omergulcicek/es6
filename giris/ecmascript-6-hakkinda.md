@@ -15,7 +15,7 @@ JavaScript'in bir sonraki sürümü olan ES6, 17 Haziran 2015'te standart hale g
 | 1999  | ECMAScript 3 | Düzenli ifadeler ve `try/catch` eklendi. |
 | - | ECMAScript 4 | Bu sürüm iptal edildi. |
 | 2009  | ECMAScript 5 | `strict mode` ve `JSON` desteği eklendi. *Tarayıcıların şu anda kullandığı sürümdür.* |
-| 2011  | ECMAScript 5.1 | İçerik değişiklikleri yapıldı. |
+| 2011  | ECMAScript5.1 | İçerik değişiklikleri yapıldı. |
 | 2015  | **ECMAScript 6** | Birçok yeni özellik eklendi, bu dokümanda tek tek değinilecek. |
 | 2016  | ECMAScript 7 | `exponential operator (**)` ve `Array.prototype.includes` eklendi. |
 | 2017  | ECMAScript 8 | `String padding`, `new Object property`leri, `Async fonksiyon`lar ve `shared memory` eklendi. |
