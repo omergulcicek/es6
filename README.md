@@ -15,14 +15,7 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 <h2>Giriş</h2>
 
 - <a href="https://omergulcicek.github.io/es6/giris/ecmascript-6-hakkinda">ECMAScript 6 (ES6) Hakkında</a>
-
-<h2>ES6 Hakkında Sık Sorulan Sorular</h2>
-
-- <a href="https://omergulcicek.github.io/es6/es6-hakkinda-sss/es6yi-nasil-kullanabilirim">ES6'yı nasıl kullanabilirim?</a>
-- <a href="https://omergulcicek.github.io/es6/es6-hakkinda-sss/es6-ecmasript2015-olarak-adlandirilmiyor-mu">ECMAScript 6, ECMAScript 2015 olarak adlandırılmıyor mu?</a>
-- <a href="https://omergulcicek.github.io/es6/es6-hakkinda-sss/es5-kodunu-es6ya-nasil-cevirebilirim">ECMAScript 5 kodunu ECMAScript 6'ya nasıl çevirebilirim?</a>
-- <a href="https://omergulcicek.github.io/es6/es6-hakkinda-sss/es5i-ogrenmeli-miyim">ECMAScript 5'i öğrenmek mantıklı mı?</a>
-- <a href="https://omergulcicek.github.io/es6/es6-hakkinda-sss/es6-abartiliyor-mu">ES6 abartılıyor mu?</a>
+- <a href="https://omergulcicek.github.io/es6/giris/es6-hakkinda-sss">ES6 Hakkında Sık Sorulan Sorular</a>
 
 <h2>ES6 Temel Özellikleri</h2>
 
