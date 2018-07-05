@@ -22,4 +22,4 @@ JavaScript'in bir sonraki sürümü olan ES6, 17 Haziran 2015'te standart hale g
 
 İlk olarak ES6 hakkında sık sorulan sorulara yanıt bulacağız. Ardından ES6'nın temel özelliklerini detaylandıracağız. 
 
-<a href="https://omergulcicek.github.io/es6/es6-hakkinda-sss/es6yi-nasil-kullanabilirim">Sıradaki Konu: ES6'yı nasıl kullanabilirim?</a>
+<a href="https://omergulcicek.github.io/es6/giris/es6-hakkinda-sss">Sıradaki Konu: ES6 Hakkında Sık Sorulan Sorular</a>
