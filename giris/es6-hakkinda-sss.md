@@ -22,4 +22,4 @@ ECMAScript 5 özelliklerinin yerine geçen birçok ECMAScript 6 özelliği vard�
  
 ECMAScript 6, ECMAScript 5'e derlendiği sürece ES5 çıktısını anlamak faydalı olacaktır. Ayrıca, tüm bworserlarda ES6'ya tam destek gelene kadar (muhtemelen bir kaç yıl daha) ES5'e derlemeniz gerekecektir. Bu yüzden eski kodu anlayabilmek önemlidir.
 
-<a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/var-dan-cost-let-e">Sıradaki Konu: ES6 Temel Özellikleri</a>
+<a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/var-dan-const-let-e">Sıradaki Konu: ES6 Temel Özellikleri</a>
