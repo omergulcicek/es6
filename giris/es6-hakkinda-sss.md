@@ -20,9 +20,6 @@ ECMAScript 6, ECMAScript 5'in bir üst versiyonudur; yeni JavaScript sürümleri
 
 ECMAScript 5 özelliklerinin yerine geçen birçok ECMAScript 6 özelliği vardır, ancak bunlar aynı temeli kullanırlar.
  
-ECMAScript 6 ECMAScript 5'e derlendiği sürece, ES5 çıktısını anlamak faydalı olacaktır. Ayrıca, tüm bworserlarda ES6'ya tam destek gelene kadar (muhtemelen bir kaç yıl) ES5'e derlemeniz gerekecektir. Bu yüzden eski kodu anlayabilmek önemlidir.
-
-## ES6 abartılıyor mu?
-*Eklenecek*
+ECMAScript 6, ECMAScript 5'e derlendiği sürece ES5 çıktısını anlamak faydalı olacaktır. Ayrıca, tüm bworserlarda ES6'ya tam destek gelene kadar (muhtemelen bir kaç yıl daha) ES5'e derlemeniz gerekecektir. Bu yüzden eski kodu anlayabilmek önemlidir.
 
 <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/var-dan-cost-let-e">Sıradaki Konu: ES6 Temel Özellikleri</a>
