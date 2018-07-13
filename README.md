@@ -19,7 +19,7 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
 <h2>ES6 Temel Özellikleri</h2>
 
-- <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/var-dan-cost-let-e">var'dan const/let'e</a>
+- <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/var-dan-const-let-e">var'dan const/let'e</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/iifes-den-blocklara">IIFEs'den blocklara</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/arrow-fonksiyonlari">Arrow fonksiyonları</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/birden-cok-deger-return-etmek">Birden çok değer return etmek</a>
