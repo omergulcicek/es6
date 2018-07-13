@@ -61,6 +61,4 @@ Kodda `var` ile tanımladığınız değişkenleri refactoring sırasında `let`
 * Değeri değişebilecek değişkenler için ise `let` kullanın.
 * `var` kullanmaktan kaçının.
 
-<a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/iifes-den-bloklara">Sıradaki Konu: IIFEs'den bloklara</a>
-
-
+<a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/iifes-den-blocklara">Sıradaki Konu: IIFEs'den blocklara</a>
