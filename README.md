@@ -23,6 +23,7 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/iifes-den-blocklara">IIFEs'den blocklara</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/arrow-fonksiyonlari">Arrow fonksiyonları</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/birden-cok-deger-return-etmek">Birden çok değer return etmek</a>
+- <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/for-foreach-ten-for-of-a">for & forEach’ten for-of’a</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/parametreleri-varsayilan-degerleriyle-kullanmak">Parametreleri varsayılan değerleriyle kullanmak</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/applyden-spread-operatorlere">apply()'den spread operatörlere</a>
 - <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/concatden-spread-operatorlere">concat()'den spread operatörlere</a>
