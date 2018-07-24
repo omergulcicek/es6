@@ -26,5 +26,4 @@ Bu kullanımda, fonksiyona `y` parametresini göndermeseniz bile varsayılan ola
 
 Her iki değeride set edersek belirlediğimiz değerler toplanacaktır. `add(5,6)` durumunda `11` return edilecektir.
 
-
-<a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/applyden-spread-operatorlere">Sıradaki Konu: apply()'den spread operatörlere</a>
+<a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/parametre-isimlerini-kullanmak">Sıradaki Konu: Parametre isimlerini kullanmak</a>
