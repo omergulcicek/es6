@@ -30,7 +30,7 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/concatden-spread-operatorlere">concat()'den spread operatörlere</a>
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/constructorsden-classlara">constructorsden classlara</a>
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/objelerden-maplere">objelerden Map'lere</a>
-- [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-string-fonskyionlari">Yeni string fonksiyonları</a>
+- [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-string-fonksiyonlari">Yeni string fonksiyonları</a>
 - [ ] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-array-fonksiyonlari">Yeni array fonksiyonları</a>
 
 <i>Güncellenecek</i>
