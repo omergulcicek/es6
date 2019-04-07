@@ -12,7 +12,7 @@ Birebir çeviri değildir; eklemeler, silmeler ve düzenlemeler olmuştur.
 
 Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
-<h2>Giriş</h2>
+## Giriş
 
 - [x] <a href="https://omergulcicek.github.io/es6/giris/ecmascript-6-hakkinda">ECMAScript 6 (ES6) Hakkında</a>
 - [x] <a href="https://omergulcicek.github.io/es6/giris/es6-hakkinda-sss">ES6 Hakkında Sık Sorulan Sorular</a>
@@ -31,6 +31,13 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/constructorsden-classlara">constructorsden classlara</a>
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/objelerden-maplere">objelerden Map'lere</a>
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-string-fonksiyonlari">Yeni string fonksiyonları</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-array-fonksiyonlari">Yeni array fonksiyonları</a>
+- [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-array-fonksiyonlari">Yeni array fonksiyonları</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/commonjs-modullerinden-es6-modullerine">CommonJS modüllerinden ES6 modüllerine</a>
+
+## Yeni sayı ve Math özellikleri
+
+- [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/">Yeni tamsayı değişmezleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/">Yeni statik Number özellikleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/">Yeni Math fonksiyonları</a>
 
 <i>Güncellenecek</i>
