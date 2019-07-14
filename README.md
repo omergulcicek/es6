@@ -34,10 +34,14 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/yeni-array-fonksiyonlari">Yeni array fonksiyonları</a>
 - [x] <a href="https://omergulcicek.github.io/es6/es6-temel-ozellikleri/commonjs-modullerinden-es6-modullerine">CommonJS modüllerinden ES6 modüllerine</a>
 
-## Yeni sayı ve Math özellikleri
+## Gelişmiş Özellikler
 
-- [x] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-tamsayi-degismezleri/">Yeni tamsayı değişmezleri</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-statik-number-ozellikleri/">Yeni statik Number özellikleri</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-math-fonksiyonlari/">Yeni Math fonksiyonları</a>
+- [x] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/yeni-tamsayi-degismezleri/">Yeni tamsayı değişmezleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/yeni-string-ozellikleri/">Yeni string özellikleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/semboller/">Semboller</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/template-degismezleri/">Template değişmezleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/semboller/">Değişkenler ve scop</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/destructuring/">Destructuring</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/parametreler/">Parametreler</a>
 
 <i>Güncellenecek</i>
