@@ -93,4 +93,4 @@ import myFunc from 'myFunc';
 myFunc();
 ```
 
-<a href="https://omergulcicek.github.io/es6/yeni-tam-sayi-degismezleri/">Sıradaki Konu: Yeni Tam Sayı Değişmezleri</a>
+<a href="https://omergulcicek.github.io/es6/yeni-tamsayi-degismezleri/">Sıradaki Konu: Yeni Tamsayı Değişmezleri</a>
