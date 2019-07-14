@@ -36,7 +36,7 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
 ## Yeni sayı ve Math özellikleri
 
-- [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-tam-sayi-degismezleri/">Yeni tamsayı değişmezleri</a>
+- [x] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-tamsayi-degismezleri/">Yeni tamsayı değişmezleri</a>
 - [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-statik-number-ozellikleri/">Yeni statik Number özellikleri</a>
 - [ ] <a href="https://omergulcicek.github.io/es6/yeni-sayi-ve-math-ozellikleri/yeni-math-fonksiyonlari/">Yeni Math fonksiyonları</a>
 
