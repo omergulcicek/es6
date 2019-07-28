@@ -36,12 +36,12 @@ Hatalı yerlerin düzeltilmesi için pull request gönderebilirsiniz.
 
 ## Gelişmiş Özellikler
 
-- [x] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/yeni-tamsayi-degismezleri/">Yeni tamsayı değişmezleri</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/yeni-string-ozellikleri/">Yeni string özellikleri</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/semboller/">Semboller</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/template-degismezleri/">Template değişmezleri</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/semboller/">Değişkenler ve scop</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/destructuring/">Destructuring</a>
-- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/parametreler/">Parametreler</a>
+- [x] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/yeni-tamsayi-degismezleri">Yeni tamsayı değişmezleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/yeni-string-ozellikleri">Yeni string özellikleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/semboller">Semboller</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/template-degismezleri">Template değişmezleri</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/semboller">Değişkenler ve scop</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/destructuring">Destructuring</a>
+- [ ] <a href="https://omergulcicek.github.io/es6/gelismis-ozellikler/parametreler">Parametreler</a>
 
 <i>Güncellenecek</i>
